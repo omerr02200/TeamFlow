@@ -1,4 +1,4 @@
-## # GÖREV VE TAKIM YÖNETM UYGULAMASI
+## # GÖREV VE TAKIM YÖNETİM UYGULAMASI
 
 - Proje, Intellij IDEA üzerinden, Spring Boot - Java - Maven ile oluşturulduktan sonra aşağıdaki bağımlılıklar eklenmiştir.
 - Lombok
