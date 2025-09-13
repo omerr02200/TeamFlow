@@ -9,6 +9,7 @@
 - PostgreSQL Driver
 
 Bu bağımlılıklar doğrultusunda ve projenin oluşturulması için, aşağıdaki **teknolojilerin** gereksinimlerinin karşılanması hedeflenmiştir.
+
 • Spring Boot (REST API) 
 
 • Spring Security (JWT ile) 
